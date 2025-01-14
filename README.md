@@ -7,6 +7,10 @@ __Porsche__ is a release definition that produces instances of VK-45.01.
 
 ![](./docs/vk4501-architecture.png)
 
+```console
+docker compose up --build --force-recreate
+```
+
 License
 -------
 
